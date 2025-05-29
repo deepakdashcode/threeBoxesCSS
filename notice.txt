@@ -1,3 +1,4 @@
-1st box seems to have fixed height and width
+all boxes seem to have 25vh
+1st box seems to have fixed width
 second box appears to be of 50% width
-third box seems to have max width of 70-80% and min of around 200px
+third box seems to have max width of 70-80% and min of around 600px
