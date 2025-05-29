@@ -1,0 +1,24 @@
+.parent {
+    width: 100vw;
+    height: 100vh;
+}
+.text {
+    text-align: center;
+    font-size: 1.5rem;
+}
+.box {
+    margin-bottom: 30px;
+    height: 25%;
+}
+#box1 {
+    width: 200px;
+    background-color: red;
+}
+#box2 {
+    background-color: blue;
+    width: 50%;
+}
+#box3 {
+    background-color: moccasin;
+    width: min(600px, 70%);
+}
